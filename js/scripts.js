@@ -6,3 +6,7 @@ function codingBoss() {
     document.querySelector('h1').style.color = "hotpink"; 
 }
 codingBoss();
+
+console.log("Hello World");
+
+console.log(2 + 5);
